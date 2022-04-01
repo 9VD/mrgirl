@@ -25,3 +25,7 @@ body::-webkit-scrollbar-thumb {
   height: 98vh;
   margin: auto;
 }
+
+.mrmBald {
+  height: 300px
+}
